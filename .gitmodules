@@ -1,0 +1,6 @@
+[submodule "BayesianNet"]
+	path = BayesianNet
+	url = git@github.com:swlody/BayesianNet
+[submodule "PropositionalLogic"]
+	path = PropositionalLogic
+	url = git@github.com:swlody/PropositionalLogic

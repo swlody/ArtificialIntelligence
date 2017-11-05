@@ -1,0 +1,9 @@
+*/.git/*
+*/*.aux
+*/*.bbl
+*/*.blg
+*/*.synctex.gz
+*/*.zip
+*/*.iml
+*/.idea/*
+*/.project

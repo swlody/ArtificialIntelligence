@@ -1,0 +1,1 @@
+Run make to compile. Run java TicTacToe to run. This is my rough draft version of TicTacToe and was included for completion. The better version is in ../../TicTacToe, which contains the C version of the program.
